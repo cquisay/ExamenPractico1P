@@ -1,4 +1,4 @@
-#Fri Nov 27 16:16:34 COT 2020
-base.0=C\:\\Users\\carlo\\Documents\\GitHub\\ExamenPractico1P\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Fri Nov 27 16:45:36 COT 2020
+base.0=C\:\\Users\\adari\\Desktop\\ESPOL\\Aplicaciones moviles\\ExamenPractico1P\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
