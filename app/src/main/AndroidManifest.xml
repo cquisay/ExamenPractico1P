@@ -9,6 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MegaCine">
+        <activity android:name=".QuintaPregunta"></activity>
+        <activity android:name=".CuartaPregunta" />
+        <activity android:name=".TerceraPregunta" />
+        <activity android:name=".SegundaPregunta" />
+        <activity android:name=".PrimeraPregunta" />
+        <activity android:name=".HaGanado" />
+        <activity android:name=".HaPerdido" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
